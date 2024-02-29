@@ -1,6 +1,5 @@
 {    
-    "name": "Start",
-    "version": "1.0.0",
-    "parameter": "menu:https://darlux45.github.io/Mediax/data/menu.json",
-    "welcome": "none"
+    "name": "Home",
+    "version": "1.0.1",
+    "parameter": "menu:https://darlux45.github.io/Mediax/data/menu.json"
 }
