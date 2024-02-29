@@ -1,6 +1,6 @@
 {    
     "name": "Start",
     "version": "1.0.0",
-    "parameter": "menu:http://link.to.menu",
+    "parameter": "menu:https://darlux45.github.io/Mediax/data/menu.json",
     "welcome": "none"
 }
