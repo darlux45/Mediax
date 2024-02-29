@@ -1,5 +1,5 @@
 {    
-    "name": "Start Parameter Name",
+    "name": "Start",
     "version": "1.0.0",
     "parameter": "menu:http://link.to.menu",
     "welcome": "none"
