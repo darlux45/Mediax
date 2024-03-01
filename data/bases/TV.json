@@ -1,0 +1,29 @@
+{
+   "type": "pages",
+   "headline": "tv",
+   "template": {
+      "tag": "Web",
+      "type": "separate",
+      "layout": "0,0,2,4",
+      "icon": "msx-white-soft:movie",
+      "color": "#33FF3F"
+   },
+   "items": [
+      {
+         "title": "Global",
+         "playerLabel": "Video 1",
+        "image": "https://onx.la/d2148".
+         "action": "video:plugin:https://clarovideo.deportesporinternet.com/dash2.html?url=aHR0cHM6Ly9wZWxpdmVjaGFubmVsc2Rhc2gtMS5jbGFyb3ZpZGVvLmNvbS9icGstdHYvR0xPQkFMSEQvZGFzaF9may9pbmRleC5tcGQ=&k1=NGE3ZTdlMGZmM2IyNDIxZWRhZTc0MzIxODJmZTIwN2I=&k2=OTA3NzZlOWY0MDhlYjUxMzRhYjQzZjEwNjE2ODFiMDc=&aut=true&lang=0"
+      },
+      {
+         "title": "Video 2",
+         "playerLabel": "Video 2",
+         "action": "video:http://msx.benzac.de/media/video2.mp4"
+      },
+      {
+         "title": "Video 3",
+         "playerLabel": "Video 3",
+         "action": "video:http://msx.benzac.de/media/video3.mp4"
+      }
+   ]
+}
