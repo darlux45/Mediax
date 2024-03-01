@@ -9,15 +9,16 @@
    },
    "items": [
       {
-         "titleFooter": "Global",
-         "imageLabel": "Video 1",
+         "title": "Global",
+         "Label": "Video 1",
         "image": "https://onx.la/d2148",
          "action": "video:plugin:https://clarovideo.deportesporinternet.com/dash2.html?url=aHR0cHM6Ly9wZWxpdmVjaGFubmVsc2Rhc2gtMS5jbGFyb3ZpZGVvLmNvbS9icGstdHYvR0xPQkFMSEQvZGFzaF9may9pbmRleC5tcGQ=&k1=NGE3ZTdlMGZmM2IyNDIxZWRhZTc0MzIxODJmZTIwN2I=&k2=OTA3NzZlOWY0MDhlYjUxMzRhYjQzZjEwNjE2ODFiMDc=&aut=true&lang=0"
       },
       {
-         "title": "Video 2",
+         "title": "America TV",
          "playerLabel": "Video 2",
-         "action": "video:http://msx.benzac.de/media/video2.mp4"
+         "image": "https://acortar.link/i1qgJ8",
+         "action": "video:plugin:https://casasdeapuestaenvivo.online/dash2.html?url=aHR0cHM6Ly8xMDExLXZvcy5kdHZvdHQuY29tL0RBU0gvbWFuaWZlc3QubXBk&k1=MTkxY2I3N2RjNjIyMzlkYjg3NTk2ZGVjNjJjOWI5OGY=&k2=OWFlYTVmMDk3NjAzYjNkYzkxOWJhODY2OTRjMWEzOWQ="
       },
       {
          "title": "Video 3",
