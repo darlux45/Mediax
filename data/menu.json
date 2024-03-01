@@ -12,8 +12,8 @@
         },
         {
             "icon": "movie",
-            "label": "Videos",
-            "data": "https://benzac-de.github.io/msx/data/base/videos.json"
+            "label": "You",
+            "data": "https://darlux45.github.io/msx/data/bases/You.json"
         },
         {
             "icon": "music-note",
