@@ -26,9 +26,9 @@
             "data": "https://benzac-de.github.io/msx/data/base/images.json"
         },
         {
-            "icon": "smart-display",
-            "label": "YouTube",
-            "data": "https://benzac-de.github.io/msx/data/base/youtube.json"
+            "icon": "#18aa9c:smart-display",
+            "label": "TV",
+            "data": "https://darlux45.github.io/msx/data/bases/TV.json"
         },
         {
             "type": "separator",
