@@ -10,15 +10,15 @@
    "items": [
       {
          "title": "Global",
-         "Label": "Video 1",
+         "Label": "Global tv",
         "image": "https://onx.la/d2148",
          "action": "video:plugin:https://clarovideo.deportesporinternet.com/dash2.html?url=aHR0cHM6Ly9wZWxpdmVjaGFubmVsc2Rhc2gtMS5jbGFyb3ZpZGVvLmNvbS9icGstdHYvR0xPQkFMSEQvZGFzaF9may9pbmRleC5tcGQ=&k1=NGE3ZTdlMGZmM2IyNDIxZWRhZTc0MzIxODJmZTIwN2I=&k2=OTA3NzZlOWY0MDhlYjUxMzRhYjQzZjEwNjE2ODFiMDc=&aut=true&lang=0"
       },
       {
-         "title": "America TV",
-         "playerLabel": "Video 2",
+         "title": "Warner Channel",
+         "playerLabel": "Warner",
          "image": "https://acortar.link/i1qgJ8",
-         "action": "video:plugin:https://casasdeapuestaenvivo.online/dash2.html?url=aHR0cHM6Ly8xMDExLXZvcy5kdHZvdHQuY29tL0RBU0gvbWFuaWZlc3QubXBk&k1=MTkxY2I3N2RjNjIyMzlkYjg3NTk2ZGVjNjJjOWI5OGY=&k2=OWFlYTVmMDk3NjAzYjNkYzkxOWJhODY2OTRjMWEzOWQ="
+         "action": "video:plugin:https://onx.la/19547"
       },
       {
          "title": "Video 3",
