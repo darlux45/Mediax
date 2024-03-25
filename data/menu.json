@@ -19,7 +19,7 @@
         {
             "icon": "music-note",
             "label": "TVGO",
-            "data": ""user:http://msx.benzac.de/services/m3u.php?type=video&mode=extended&url=https://dl.dropbox.com/scl/fi/39hpnlcq01xt7w7ufphnr/TVGO.m3u?rlkey=ojmofoacja8tkx8eongtgk52m&dl=0"
+            "data": "user:http://msx.benzac.de/services/m3u.php?type=video&mode=extended&url=https://dl.dropbox.com/scl/fi/39hpnlcq01xt7w7ufphnr/TVGO.m3u?rlkey=ojmofoacja8tkx8eongtgk52m&dl=0"
         },
         {
             "icon": "image",
