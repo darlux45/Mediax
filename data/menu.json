@@ -17,8 +17,8 @@
             "data": "https://darlux45.github.io/msx/data/bases/You.json"
         },
         {
-            "icon": "#a349a4:smart-display",
-            "label": "TVGO",
+            "icon": "9603ff:smart-display",
+            "label": "ff664d:TVGO",
             "data": "request:interaction:https://dl.dropbox.com/scl/fi/g5gddjx7fxa8muhiioiwx/Live.xml?rlkey=v9h3pn5x0vi1fzxk4gwm6ahn9&dl=0|http://msx.benzac.de/media/banner.png|http://msx.benzac.de/media/banner_background.png@http://msx.benzac.de/interaction/mrss.html"
         },
         {
