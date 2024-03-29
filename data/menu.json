@@ -28,7 +28,7 @@
         },
         {
             "icon": "#18aa9c:smart-display",
-            "label": "TV",
+            "label": "{col:}TV",
             "data": "https://darlux45.github.io/msx/data/bases/TV.json"
         },
         {
